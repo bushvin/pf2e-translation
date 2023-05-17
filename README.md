@@ -1,6 +1,6 @@
 # Pathfinder 2e translation
 
-This repository gathers a translation of Pathfinder 2e resources, as described in the [Pathfinder Second Edition Core Rulebook](https://paizo.com/products/btq01zp3).
+This repository gathers a translation of Pathfinder 2e resources, as described in the Pathfinder Second edition rulebooks.
 
 Translation was performed with the help of [ChatGPT v4](https://chat.openai.com)
 
@@ -11,7 +11,32 @@ Translation was performed with the help of [ChatGPT v4](https://chat.openai.com)
 
 ## Contributing
 
-I try to maintain the same structure as the Pathfinder 2e Core Rulebook
+All files are generated using and optimized for [scribe.pf2.tools](https://scribe.pf2.tools/)
+
+I try to maintain the same structure as the [Pathfinder Second Edition Core Rulebook](https://paizo.com/products/btq01zp3):
+
+`<category>/<item>/<2 letter language code>.scribe`
+
+With:
+
+**category**
+
+- ancestries
+- backgrounds
+- classes
+- skills
+- feats
+- spells
+
+**item**
+
+- human
+- wizard
+- arcane
+
+**2 letter language code**
+
+The 2 letter language code as per the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) specification
 
 ## Contributors
 
